@@ -7,5 +7,6 @@
 	"APPLICATION_KEY": "change_me",
 	"CLIENT_KEY": "change_me",
 	"TOPIC": "change_me"
-    }
+    },
+    "addons": ["cloudmqtt"]
 }
