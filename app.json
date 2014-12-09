@@ -1,0 +1,12 @@
+{
+    "name": "NCMB Push server",
+    "description": "ニフティクラウド mobile backendでプッシュ通知を行うサーバです。",
+    "repository": "https://github.com/moongift/push_server",
+    "keywords": ["Sinatra", "Ruby", "PaaS", "mBaaS"],
+    "env": {
+	"APPLICATION_KEY": "change_me",
+	"CLIENT_KEY": "change_me",
+	"TOPIC": "change_me",
+	
+    }
+}
